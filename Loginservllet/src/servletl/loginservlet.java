@@ -35,7 +35,7 @@ public class loginservlet extends HttpServlet {
 		session.setAttribute("user", str);
 		
 		response.sendRedirect("SecondServlet");
-	
+	//G
 		
 	}
 
